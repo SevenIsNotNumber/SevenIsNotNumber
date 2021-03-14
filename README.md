@@ -1,5 +1,11 @@
 ### Hi there 👋
+ 
+### Im a....
 
-Im currently learning some Assembly... I learned C and shell... Im also planning to learn java and how to use SDL in c project
+ - Beginner Java, C and Assembly programmer
+
+ - Know a bit in Linux (i hate windows coz i cant install compilers and others easily)
+ 
+ - Mineceafter
 
 YouTube: https://youtube.com/channel/UC6EwNMcaBb7V6AfVN2Usrpw
