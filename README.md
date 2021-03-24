@@ -4,12 +4,17 @@
 
  - Beginner Java, C and Assembly programmer
 
- - Know a bit in Linux (i hate windows coz i cant install compilers and others easily)
+ - Linux beginner (i hate windows coz i cant install compilers and others easily my dream is to have linux PC :))
  
  - Minecrafter
 
-- Veteran Pojav Launcher User (use since late 2019)
+ - Veteran Pojav Launcher User (use since late 2019)
 
-- Lets play. . . Im interested.
+### I love...
+ - ~~My girlfriend~~
+ 
+ - Learning then forget it later 😄😄
 
-YouTube: https://youtube.com/channel/UC6EwNMcaBb7V6AfVN2Usrpw
+ - Love trolling some strangers.
+
+Youtube: https://youtube.com/channel/UC6EwNMcaBb7V6AfVN2Usrpw
