@@ -4,6 +4,8 @@
 
  - Beginner Java, C, Assembly, & python programmer
 
+ - Beginner Hardware designer (i use verilog 😅😅)
+
  - Im learning building android apps and making cool things. 😄😄
 
  - Linux beginner (i hate windows coz i cant install compilers and others easily)
